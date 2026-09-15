@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "cocuklar-icin-kodlamaya-ne-zaman-baslanmali",
+    "title": "Çocuklar İçin Kodlamaya Ne Zaman Başlanmalı?",
+    "date": "2026-08-18",
+    "image": "/assets/photos/blog-coding.webp",
+    "excerpt": "Erken yaşta robotik ve kodlamayla tanışmanın çocukların problem çözme becerilerine katkısını inceliyoruz.",
+    "content": [
+      "Kodlama, artık yalnızca bilgisayar mühendislerinin değil, her yaştan çocuğun geliştirebileceği bir düşünme biçimi haline geldi. Erken yaşta LEGO gibi somut materyallerle kurulan bağlantı, soyut kodlama kavramlarının çok daha kolay anlaşılmasını sağlıyor.",
+      "4-6 yaş aralığında çocuklar henüz ekran tabanlı kodlamaya hazır olmayabilir; bu dönemde yapı taşlarıyla kurma-bozma, sıralama ve neden-sonuç ilişkisi kurma becerileri ön plana çıkar. İlkokul döneminde blok tabanlı kodlama araçları devreye girer ve çocuklar ilk algoritmik düşünme deneyimlerini yaşar.",
+      "Önemli olan, çocuğun yaşına uygun kademeli bir müfredatla ilerlemesi ve öğrenmenin oyunlaştırılmış, keyifli bir deneyime dönüşmesidir. Zorlayıcı değil, merak uyandıran bir yaklaşım, uzun vadede çok daha kalıcı sonuçlar verir."
+    ]
+  },
+  {
+    "slug": "lego-education-ile-stem-ogrenimi",
+    "title": "LEGO Education ile STEM Öğrenimi Neden Etkili?",
+    "date": "2026-07-02",
+    "image": "/assets/photos/blog-lego.webp",
+    "excerpt": "Fen, Teknoloji, Mühendislik ve Matematiği tek bir deneyimde birleştiren LEGO Education yaklaşımını konuşuyoruz.",
+    "content": [
+      "STEM eğitimi; Fen, Teknoloji, Mühendislik ve Matematik konularını birbirinden bağımsız değil, gerçek dünya problemleriyle iç içe öğretmeyi hedefler. LEGO Education setleri, bu dört alanı tek bir yapım projesinde birleştirerek çocuklara bütünsel bir öğrenme deneyimi sunar.",
+      "Bir robotu tasarlarken çocuk aynı anda geometrik dengeyi (matematik), hareket mekanizmalarını (mühendislik), sensör mantığını (teknoloji) ve gözlem-tahmin döngüsünü (fen) deneyimler. Bu, sınıf içinde ayrı ayrı öğretilen konuların birbirine bağlandığı nadir anlardan biridir.",
+      "Araştırmalar, uygulamalı öğrenmenin bilgiyi kalıcı hale getirdiğini gösteriyor. Çocuklar bir kavramı kitaptan okumak yerine kendi elleriyle inşa ederek öğrendiğinde, o bilgi çok daha uzun süre akılda kalıyor."
+    ]
+  },
+  {
+    "slug": "robotik-yarismalarina-hazirlanmak",
+    "title": "Robotik Yarışmalarına Hazırlanmak: Aileler İçin Rehber",
+    "date": "2026-05-21",
+    "image": "/assets/photos/blog-family.webp",
+    "excerpt": "WRO ve FIRST LEGO League gibi yarışmalara hazırlanan çocuklar için ailelerin nasıl destek olabileceğini anlatıyoruz.",
+    "content": [
+      "Robotik yarışmaları, çocuklar için yalnızca teknik becerileri değil; takım çalışması, zaman yönetimi ve sunum becerilerini de geliştiren güçlü bir deneyimdir. Yarışma sürecine hazırlanmak haftalar süren düzenli bir çalışmayı gerektirir.",
+      "Aileler için en değerli destek, sonuç odaklı değil süreç odaklı bir yaklaşım sergilemektir. Çocuğun tasarımı neden başarısız oldu sorusuna birlikte cevap aramak, doğrudan çözümü söylemekten çok daha değerli bir öğrenme fırsatıdır.",
+      "Yarışma günü heyecanı kadar, hazırlık sürecindeki küçük başarısızlıklar ve yeniden deneme anları da çocuğun mühendislik kimliğinin gelişmesinde kritik rol oynar."
+    ]
+  }
+]
