@@ -1,0 +1,30 @@
+{
+  "name": "perino-flex-react-node",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Perino-Flex corporate multipage website built with React and Node.js",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "workspaces": [
+    "client"
+  ],
+  "scripts": {
+    "dev": "concurrently \"node --watch server/app.js\" \"npm run dev --workspace client\"",
+    "build": "npm run build --workspace client",
+    "start": "node server/app.js",
+        "smtp:test": "node scripts/test-smtp.cjs",
+    "check": "npm run build && node scripts/check-build.cjs"
+  },
+  "dependencies": {
+    "compression": "^1.7.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "helmet": "^8.0.0",
+    "nodemailer": "^6.10.0"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
